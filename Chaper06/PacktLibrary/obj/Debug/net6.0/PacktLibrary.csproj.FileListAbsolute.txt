@@ -10,3 +10,15 @@ D:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.d
 D:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\refint\PacktLibrary.dll
 D:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.pdb
 D:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\ref\PacktLibrary.dll
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.deps.json
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.dll
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.pdb
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.AssemblyReference.cache
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfo.cs
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.dll
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\refint\PacktLibrary.dll
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.pdb
+C:\Ppp_Git\Dotnet6Practice\Chaper06\PacktLibrary\obj\Debug\net6.0\ref\PacktLibrary.dll

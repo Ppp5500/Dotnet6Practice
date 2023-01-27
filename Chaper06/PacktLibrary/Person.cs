@@ -1,7 +1,7 @@
 ﻿using static System.Console;
 
 namespace Packt.Shared;
-public class Person : Object
+public class Person : Object, IComparable<Person>
 {
     // fields
     public string? Name; // ? allows null
@@ -71,5 +71,11 @@ public class Person : Object
                 Shout(this, EventArgs.Empty);
             }
         }
+    }
+
+    public int CompareTo(Person? other)
+    {
+        if (Name is null) return 0;
+        return Name.CompareTo(other?.Name);
     }
 }
