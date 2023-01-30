@@ -11,7 +11,7 @@ public class Person : Object, IComparable<Person>
     // methods
     public void WriteToConsole()
     {
-        WriteLine($" {Name} was born on a {DateOfBirth:dddd}.");
+        WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
     }
 
     // static method to "multiply"
@@ -77,5 +77,11 @@ public class Person : Object, IComparable<Person>
     {
         if (Name is null) return 0;
         return Name.CompareTo(other?.Name);
+    }
+
+    // overridden methods
+    public override string ToString()
+    {
+        return $"{Name} is a {base.ToString()}";
     }
 }
