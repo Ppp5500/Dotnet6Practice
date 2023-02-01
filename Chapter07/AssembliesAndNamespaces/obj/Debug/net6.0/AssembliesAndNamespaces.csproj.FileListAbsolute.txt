@@ -1,0 +1,5 @@
+C:\Ppp_Git\Dotnet6Practice\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.csproj.AssemblyReference.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ppp_Git\Dotnet6Practice\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.AssemblyInfo.cs
+C:\Ppp_Git\Dotnet6Practice\Chapter07\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
