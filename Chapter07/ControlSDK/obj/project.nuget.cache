@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rm47nW1tqZfB9vRI2VkJmccY2w4VWddnVd3FBAD2lJf0B2aO0hfLSDWWoP+kayQWHLGIzx1RBH+i+naXTH+xgA==",
+  "success": true,
+  "projectFilePath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter07\\ControlSDK\\ControlSDK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\360st\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\360st\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

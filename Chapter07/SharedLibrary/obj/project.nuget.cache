@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qSDeKhFTYliBbGqaMI8cIViKshwrw+AXAgW79TgEP5w/FddMo3tWnyc2acyh8efA25+0yT47+NFKFSv2fxvjUw==",
+  "success": true,
+  "projectFilePath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\360st\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\360st\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
