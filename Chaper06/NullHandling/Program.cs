@@ -1,4 +1,5 @@
-﻿using static System.Console;
+﻿#pragma warning disable CS0649
+using static System.Console;
 
 //Address address = new();
 //address.Building = null;
@@ -6,7 +7,7 @@
 //address.City = "London";
 //address.Region = null;
 
-string authorName = null;
+string? authorName = null;
 // the following throws a NullReferenceException
 // int x = authorName.Length;
 // instead of throwing an exception, null is assinged to y
@@ -16,7 +17,7 @@ WriteLine(y);
 int result = authorName?.Length ?? 3;
 Console.WriteLine(result);
 
-int thisCannotBeNull = 4;
+// int thisCannotBeNull = 4;
 // thisCannotBeNull = null; // compile error!
 int? thisCouldBeNull = null;
 WriteLine(thisCouldBeNull);

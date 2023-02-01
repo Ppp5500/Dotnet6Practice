@@ -1,0 +1,12 @@
+﻿{
+  "$scheme": "https://rawgithubusercontent.com/DotNetAnalyzers/StyleCopAnalyszers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/Stylecop.schema.json",
+  "settings": {
+    "orderingRules": {
+      "usingDirectivesPlacement": "preserve"
+    },
+    "documentationRules": {
+      "companyName": "Packt",
+      "copyrightText": "Copyright (c) Packt. All rights reserved."
+    }
+  }
+}

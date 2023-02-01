@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PacktLibrary", "PacktLibrar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeopleApp", "PeopleApp\PeopleApp.csproj", "{F9ED8DB2-3F44-4075-8C68-E0EB9CE3B05B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullHandling", "NullHandling\NullHandling.csproj", "{B391E872-2B64-4408-A088-C816168B461D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullHandling", "NullHandling\NullHandling.csproj", "{B391E872-2B64-4408-A088-C816168B461D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAnalyzing", "CodeAnalyzing\CodeAnalyzing.csproj", "{8B553296-3877-44A4-9896-F011A8A767D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{B391E872-2B64-4408-A088-C816168B461D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B391E872-2B64-4408-A088-C816168B461D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B391E872-2B64-4408-A088-C816168B461D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B553296-3877-44A4-9896-F011A8A767D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B553296-3877-44A4-9896-F011A8A767D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B553296-3877-44A4-9896-F011A8A767D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B553296-3877-44A4-9896-F011A8A767D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
