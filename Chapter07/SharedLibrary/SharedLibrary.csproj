@@ -2,6 +2,25 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Ppp5500.CSdotnet.SharedLibrary</PackageId>
+    <PackageVersion>1.0.0.0</PackageVersion>
+    <Title>c# 10 and .NET 6 Shared Library</Title>
+    <Authors>Ppp5500</Authors>
+    <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/ppp5500/dotnet6practice</PackageProjectUrl>
+    <PackageIcon>packt-csdotnet-sharedlibrary.png</PackageIcon>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Example shared library packaged for Nuget.</PackageReleaseNotes>
+    <Description>Threee extension methods to validate a sring value.</Description>
+    <Copyright>Copyright 2022-2023</Copyright>
+    <PackageTags>string extensions packt csharp dotnet</PackageTags>
   </PropertyGroup>
+  <ItemGroup>
+    <None Include="packt-csdotnet-sharedlibrary.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

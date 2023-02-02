@@ -11,14 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ppp5500")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright 2022-2023")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Threee extension methods to validate a sring value.")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AssembliesAndNamespaces")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("SharedLibrary")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SharedLibrary")]
+[assembly: System.Reflection.AssemblyProductAttribute("AssembliesAndNamespaces")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AssembliesAndNamespaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

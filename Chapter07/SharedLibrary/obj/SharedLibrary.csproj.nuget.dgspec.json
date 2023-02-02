@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
-        "projectName": "SharedLibrary",
+        "projectName": "Ppp5500.CSdotnet.SharedLibrary",
         "projectPath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
         "packagesPath": "C:\\Users\\360st\\.nuget\\packages\\",
         "outputPath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter07\\SharedLibrary\\obj\\",

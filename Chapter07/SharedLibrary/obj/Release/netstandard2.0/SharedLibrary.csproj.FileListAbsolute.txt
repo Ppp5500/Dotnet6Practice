@@ -1,0 +1,10 @@
+C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.deps.json
+C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.pdb

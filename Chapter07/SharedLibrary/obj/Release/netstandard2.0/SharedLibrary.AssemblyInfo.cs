@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ppp5500")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright 2022-2023")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Threee extension methods to validate a sring value.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

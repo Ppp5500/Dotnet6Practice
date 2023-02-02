@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ppp5500.CSdotnet.SharedLibrary</id>
+    <version>1.0.0</version>
+    <title>c# 10 and .NET 6 Shared Library</title>
+    <authors>Ppp5500</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MS-PL</license>
+    <licenseUrl>https://licenses.nuget.org/MS-PL</licenseUrl>
+    <icon>packt-csdotnet-sharedlibrary.png</icon>
+    <projectUrl>https://github.com/ppp5500/dotnet6practice</projectUrl>
+    <description>Threee extension methods to validate a sring value.</description>
+    <releaseNotes>Example shared library packaged for Nuget.</releaseNotes>
+    <copyright>Copyright 2022-2023</copyright>
+    <tags>string extensions packt csharp dotnet</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.dll" target="lib\netstandard2.0\SharedLibrary.dll" />
+    <file src="C:\Ppp_Git\Dotnet6Practice\Chapter07\SharedLibrary\packt-csdotnet-sharedlibrary.png" target="packt-csdotnet-sharedlibrary.png" />
+  </files>
+</package>
