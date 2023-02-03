@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W8ARwXPCaQXStBqfhKluhasT06nMsNXL+1ALBErYnJ+qjkFxcGCzkGezgXoAhIuJY1f4wknGQOypSXYSiBBZIA==",
+  "dgSpecHash": "W63ICPOfgI0k12xWYV0dtcphQN49t5hnSCYdzRmgH3/oGCDmsWimWWvA/3Iw949nCWSSnKefi4qnpcqrZa8CiA==",
   "success": true,
-  "projectFilePath": "D:\\Ppp_Git\\Dotnet6Practice\\Chapter08\\WorkingWithNumbers\\WorkingWithNumbers.csproj",
+  "projectFilePath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter08\\WorkingWithNumbers\\WorkingWithNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

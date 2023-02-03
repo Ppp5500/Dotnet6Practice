@@ -1,0 +1,15 @@
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\bin\Debug\net7.0\WorkingWithRegularExpressions.exe
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\bin\Debug\net7.0\WorkingWithRegularExpressions.deps.json
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\bin\Debug\net7.0\WorkingWithRegularExpressions.runtimeconfig.json
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\bin\Debug\net7.0\WorkingWithRegularExpressions.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\bin\Debug\net7.0\WorkingWithRegularExpressions.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.csproj.AssemblyReference.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\refint\WorkingWithRegularExpressions.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\WorkingWithRegularExpressions.genruntimeconfig.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter08\WorkingWithRegularExpressions\obj\Debug\net7.0\ref\WorkingWithRegularExpressions.dll
