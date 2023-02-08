@@ -1,0 +1,15 @@
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\bin\Debug\net7.0\WorkingWithEncodings.exe
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\bin\Debug\net7.0\WorkingWithEncodings.deps.json
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\bin\Debug\net7.0\WorkingWithEncodings.runtimeconfig.json
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\bin\Debug\net7.0\WorkingWithEncodings.dll
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\bin\Debug\net7.0\WorkingWithEncodings.pdb
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.csproj.AssemblyReference.cache
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.AssemblyInfoInputs.cache
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.AssemblyInfo.cs
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.csproj.CoreCompileInputs.cache
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.dll
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\refint\WorkingWithEncodings.dll
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.pdb
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\WorkingWithEncodings.genruntimeconfig.cache
+D:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithEncodings\obj\Debug\net7.0\ref\WorkingWithEncodings.dll
