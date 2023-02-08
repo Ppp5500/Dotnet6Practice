@@ -1,0 +1,15 @@
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.exe
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.deps.json
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.runtimeconfig.json
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\bin\Debug\net7.0\WorkingWithStreams.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\obj\Debug\net7.0\refint\WorkingWithStreams.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\obj\Debug\net7.0\WorkingWithStreams.genruntimeconfig.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithStreams\obj\Debug\net7.0\ref\WorkingWithStreams.dll

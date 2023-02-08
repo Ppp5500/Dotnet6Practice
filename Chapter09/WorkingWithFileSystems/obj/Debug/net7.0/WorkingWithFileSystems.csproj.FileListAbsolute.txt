@@ -1,0 +1,15 @@
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.exe
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.deps.json
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.runtimeconfig.json
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\bin\Debug\net7.0\WorkingWithFileSystems.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.csproj.AssemblyReference.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\refint\WorkingWithFileSystems.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\WorkingWithFileSystems.genruntimeconfig.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithFileSystems\obj\Debug\net7.0\ref\WorkingWithFileSystems.dll
