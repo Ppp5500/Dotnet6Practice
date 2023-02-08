@@ -1,8 +1,9 @@
-﻿using System.Security.Cryptography.X509Certificates;
-using System.Xml;
+﻿using System.Xml;
+using System.IO.Compression; // BrotliStream, GZipStream, CompressionMode
 using static System.Console;
 using static System.Environment;
 using static System.IO.Path;
+using System.Runtime.CompilerServices;
 
 static void WorkWithText()
 {
@@ -34,7 +35,7 @@ static void WorkWithXml()
     // use using block for automatically dispose
     using (FileStream xmlFileStream = File.Create(xmlFile))
     {
-        using(XmlWriter xml = XmlWriter.Create(xmlFile, new XmlWriterSettings { Indent = true }))
+        using(XmlWriter xml = XmlWriter.Create(xmlFileStream, new XmlWriterSettings { Indent = true }))
         {
             // write the XML declaration
             xml.WriteStartDocument();
@@ -51,7 +52,7 @@ static void WorkWithXml()
             xml.Close();
             xmlFileStream.Close();
             // output all the contents of the file
-            WriteLine("{0} contains [1:N0] bytes.",
+            WriteLine("{0} contains {1:N0} bytes.",
                 arg0: xmlFile,
                 arg1: new FileInfo(xmlFile).Length);
             WriteLine(File.ReadAllText(xmlFile));
@@ -112,7 +113,60 @@ static void WorkWithXml()
     */
 }
 
+// WorkWithXml();
+
+static void WorkWithCompression()
+{
+    string fileExt = "gzip";
+    // compress the XML output
+    string filePath = Combine(CurrentDirectory, $"streams.{fileExt}");
+    FileStream file = File.Create(filePath);
+    Stream compressor = new GZipStream(file, CompressionMode.Compress);
+    using (compressor)
+    {
+        using (XmlWriter xml = XmlWriter.Create(compressor))
+        {
+            xml.WriteStartDocument();
+            xml.WriteStartElement("callsigns");
+            foreach(string item in Viper.Callsigns)
+            {
+                xml.WriteElementString("callsign", item);
+            }
+            // the normal call to WriteEndElement is not necessary
+            // bercause when the XmlWriter disposes, it will
+            // automatically and any elements of any depth
+        }
+    } // also closes the underlying stream
+    // output all the contents of the compressed file
+    WriteLine("{0} contains {1:N0} bytes.",
+        filePath, new FileInfo(filePath).Length);
+    WriteLine($"The compressed contents: ");
+    WriteLine(File.ReadAllText(filePath));
+    // read a compressed file
+    WriteLine("Reading the compressed XML file: ");
+    file = File.Open(filePath, FileMode.Open);
+    Stream decompressor = new GZipStream(file, CompressionMode.Decompress);
+    using (decompressor)
+    {
+        using(XmlReader reader = XmlReader.Create(decompressor))
+        {
+            while (reader.Read()) // red the next XML node
+            {
+                // check if we are on an element node named callsign
+                if((reader.NodeType == XmlNodeType.Element) && (reader.Name == "callsign"))
+                {
+                    reader.Read(); // move to the text inside element
+                    WriteLine($"{reader.Value}"); // read its value
+                }
+            }
+        }
+    }
+}
+
 WorkWithXml();
+WorkWithCompression();
+
+
 
 static class Viper{
     public static string[] Callsigns = new[]
