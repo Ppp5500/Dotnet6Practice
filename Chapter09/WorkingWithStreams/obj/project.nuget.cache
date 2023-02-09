@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v5YxxNQT21uNMu2+0LhqzGX+OflarzCI3VMS+TC44JNjhEQWpG7PsPuuMkYg5w1twKiL/PB5o156QX5bTHRXTA==",
+  "dgSpecHash": "0N/bQ+ovxdBULWJ3wWVAUko9ov2MY1YxRNjrth1v0Ii3PjnRlzXfWT/bP1sDibcuurd3Xz9tmdkGf5+5//NnyA==",
   "success": true,
-  "projectFilePath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithStreams\\WorkingWithStreams.csproj",
+  "projectFilePath": "D:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithStreams\\WorkingWithStreams.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
