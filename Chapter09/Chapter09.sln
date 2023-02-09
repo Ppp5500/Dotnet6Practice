@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithFileSystems", "W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithStreams", "WorkingWithStreams\WorkingWithStreams.csproj", "{35003DD5-6221-4ABB-867D-51B6D82B27F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithEncodings", "WorkingWithEncodings\WorkingWithEncodings.csproj", "{CD0DD570-F0A2-4579-B74B-30C9D8781520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithEncodings", "WorkingWithEncodings\WorkingWithEncodings.csproj", "{CD0DD570-F0A2-4579-B74B-30C9D8781520}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSerialization", "WorkingWithSerialization\WorkingWithSerialization.csproj", "{6687A647-73DA-4994-B447-A258D8C40BB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithSerialization", "WorkingWithSerialization\WorkingWithSerialization.csproj", "{6687A647-73DA-4994-B447-A258D8C40BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithJson", "WorkingWithJson\WorkingWithJson.csproj", "{0628F2A6-5AC9-4674-87D4-A0870450DEB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6687A647-73DA-4994-B447-A258D8C40BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6687A647-73DA-4994-B447-A258D8C40BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6687A647-73DA-4994-B447-A258D8C40BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0628F2A6-5AC9-4674-87D4-A0870450DEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0628F2A6-5AC9-4674-87D4-A0870450DEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0628F2A6-5AC9-4674-87D4-A0870450DEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0628F2A6-5AC9-4674-87D4-A0870450DEB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

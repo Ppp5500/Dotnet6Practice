@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oLetPphHcNFO68Y9OMCM47nO/7Y9VfQJlDkTmSxvoQ1liiRensDHQPH7WFivBbcxpzg1dxb102YkdVdwz8+x2A==",
+  "dgSpecHash": "mYZDTfEiPeaZ8Zw4Bc/lZMLWk+/H6VVS2XMNzlUXXW6whnbmGW7HxEgjoZaEk+ktdjHmNYm0S3mz0cwiMw5Ccw==",
   "success": true,
-  "projectFilePath": "D:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
+  "projectFilePath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithFileSystems\\WorkingWithFileSystems.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

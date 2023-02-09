@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pinka\\.nuget\\packages\\": {},
+    "C:\\Users\\360st\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithStreams\\WorkingWithStreams.csproj",
+      "projectUniqueName": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithStreams\\WorkingWithStreams.csproj",
       "projectName": "WorkingWithStreams",
-      "projectPath": "D:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithStreams\\WorkingWithStreams.csproj",
-      "packagesPath": "C:\\Users\\pinka\\.nuget\\packages\\",
-      "outputPath": "D:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithStreams\\obj\\",
+      "projectPath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithStreams\\WorkingWithStreams.csproj",
+      "packagesPath": "C:\\Users\\360st\\.nuget\\packages\\",
+      "outputPath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithStreams\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pinka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\360st\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

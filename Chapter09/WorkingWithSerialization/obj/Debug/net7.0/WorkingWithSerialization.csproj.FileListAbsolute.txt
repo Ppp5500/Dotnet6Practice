@@ -1,0 +1,17 @@
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.exe
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.deps.json
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.runtimeconfig.json
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\WorkingWithSerialization.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.AssemblyInfo.cs
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\refint\WorkingWithSerialization.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.genruntimeconfig.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\ref\WorkingWithSerialization.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithSerialization\obj\Debug\net7.0\WorkingWithSerialization.csproj.CopyComplete
