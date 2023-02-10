@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vCZvZjWrF9KDbI8HzqbHoxExZVMnd42FbhMJWpe/5bSHhwa6J9tIJE4trtcnW3qCpuG6Ic8NODoCbXCiV7aQ6A==",
+  "dgSpecHash": "xUuwrQo530dBI/j2KnUOLYr5eLWV38dQJN5mIzwpppul65w0rg0wVqHbSMB+vBK9Qc/Uf7nF49KhcwCOBOUL1Q==",
   "success": true,
-  "projectFilePath": "D:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithEncodings\\WorkingWithEncodings.csproj",
+  "projectFilePath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithEncodings\\WorkingWithEncodings.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

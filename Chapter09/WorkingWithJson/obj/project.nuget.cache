@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CsG03s5bV3NBOkmwPfQqEUH397KzNYPafo0dRZTSAnAsKB2f36r89aD9DWHp/1n8hi0X9lxcUh735dkoxDyPCw==",
+  "dgSpecHash": "CMFM6XDoZKLG0jDFYodIwBSQXkeR+yKW6wgXTCvbEPzIwT9Ed/XD04eEbG6egCIv2QTU1vv/gG5RCGhH5K7WVA==",
   "success": true,
-  "projectFilePath": "D:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithJson\\WorkingWithJson.csproj",
+  "projectFilePath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithJson\\WorkingWithJson.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

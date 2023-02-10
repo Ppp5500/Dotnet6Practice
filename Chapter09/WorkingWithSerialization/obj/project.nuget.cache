@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "htl4qtqLMZzi/gF3cdq5cVtTwg7eEC2oPeSoCo6Dy/Yeo1bT33djMlgb1/NxdOHSlvEfywNjd8aoJrtGcKsgqQ==",
+  "dgSpecHash": "LeVD1/pBXAAq8iKdC2TFcvMc52euz7x6VbmB5Z3Kpl5NIlOqYLvv+hBhU9CwKPhDZE/r/8a3NKJXrsdOL6/kUg==",
   "success": true,
-  "projectFilePath": "D:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithSerialization\\WorkingWithSerialization.csproj",
+  "projectFilePath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter09\\WorkingWithSerialization\\WorkingWithSerialization.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pinka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\360st\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

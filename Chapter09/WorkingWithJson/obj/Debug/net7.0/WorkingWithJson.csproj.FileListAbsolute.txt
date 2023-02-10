@@ -1,0 +1,15 @@
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.exe
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.deps.json
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.runtimeconfig.json
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\bin\Debug\net7.0\WorkingWithJson.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.AssemblyReference.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfoInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.AssemblyInfo.cs
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.csproj.CoreCompileInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\obj\Debug\net7.0\refint\WorkingWithJson.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\obj\Debug\net7.0\WorkingWithJson.genruntimeconfig.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter09\WorkingWithJson\obj\Debug\net7.0\ref\WorkingWithJson.dll
