@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DNq38sTzhS23cUrxYOOXy48+ckzPwodbR/TJW/JVFVNfBRS/3Gfgc0q2kMO0E3vQfuyeW3U81Vc7E7NWwQqQrQ==",
+  "dgSpecHash": "K2NcUVcnsNcbRXNyeDun0u6KFE4FB7nWVPLSos1gz0D1vo1I1Z62viJqSl+QbK56HpujfmRWHo2dP5YtYcWc4Q==",
   "success": true,
   "projectFilePath": "C:\\Ppp_Git\\Dotnet6Practice\\Chapter10\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\360st\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\360st\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\360st\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\360st\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
@@ -11,6 +12,7 @@
     "C:\\Users\\360st\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\360st\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\360st\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
+    "C:\\Users\\360st\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.0\\microsoft.entityframeworkcore.design.6.0.0.nupkg.sha512",
     "C:\\Users\\360st\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.0\\microsoft.entityframeworkcore.relational.6.0.0.nupkg.sha512",
     "C:\\Users\\360st\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\6.0.0\\microsoft.entityframeworkcore.sqlite.6.0.0.nupkg.sha512",
     "C:\\Users\\360st\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\6.0.0\\microsoft.entityframeworkcore.sqlite.core.6.0.0.nupkg.sha512",
