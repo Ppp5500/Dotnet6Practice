@@ -78,3 +78,5 @@ C:\Ppp_Git\Dotnet6Practice\Chapter10\WorkingWithEFCore\obj\Debug\net7.0\WorkingW
 C:\Ppp_Git\Dotnet6Practice\Chapter10\WorkingWithEFCore\obj\Debug\net7.0\ref\WorkingWithEFCore.dll
 C:\Ppp_Git\Dotnet6Practice\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\Humanizer.dll
 C:\Ppp_Git\Dotnet6Practice\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\Castle.Core.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter10\WorkingWithEFCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll

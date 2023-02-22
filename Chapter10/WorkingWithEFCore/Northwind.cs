@@ -10,6 +10,7 @@ public class Northwind : DbContext
     public DbSet<Employee>? Employees { get; set; } 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
+        optionsBuilder.UseLazyLoadingProxies();
         if(ProjectContants.DatabaseProvider == "SQlite")
         {
             string path = Path.Combine(Environment.CurrentDirectory, "Northwind.db");
@@ -35,5 +36,9 @@ public class Northwind : DbContext
             modelBuilder.Entity<Product>().Property(product => product.ProductName)
                 .HasConversion<double>();
         }
+
+        // globa lfilter to remove discontinued products
+        modelBuilder.Entity<Product>()
+            .HasQueryFilter(p => !p.Discontinued);
     }
 }
