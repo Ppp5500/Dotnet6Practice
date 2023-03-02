@@ -1,0 +1,15 @@
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\bin\Debug\net6.0\WorkingWithTasks.exe
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\bin\Debug\net6.0\WorkingWithTasks.deps.json
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\bin\Debug\net6.0\WorkingWithTasks.runtimeconfig.json
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\bin\Debug\net6.0\WorkingWithTasks.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\bin\Debug\net6.0\WorkingWithTasks.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\obj\Debug\net6.0\WorkingWithTasks.csproj.AssemblyReference.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\obj\Debug\net6.0\WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\obj\Debug\net6.0\WorkingWithTasks.AssemblyInfoInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\obj\Debug\net6.0\WorkingWithTasks.AssemblyInfo.cs
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\obj\Debug\net6.0\WorkingWithTasks.csproj.CoreCompileInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\obj\Debug\net6.0\WorkingWithTasks.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\obj\Debug\net6.0\refint\WorkingWithTasks.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\obj\Debug\net6.0\WorkingWithTasks.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\obj\Debug\net6.0\WorkingWithTasks.genruntimeconfig.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\WorkingWithTasks\obj\Debug\net6.0\ref\WorkingWithTasks.dll
