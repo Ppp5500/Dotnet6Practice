@@ -1,0 +1,15 @@
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.exe
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.deps.json
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.runtimeconfig.json
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.csproj.AssemblyReference.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.AssemblyInfo.cs
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\obj\Debug\net6.0\refint\NestedAndChildTasks.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.genruntimeconfig.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\NestedAndChildTasks\obj\Debug\net6.0\ref\NestedAndChildTasks.dll
