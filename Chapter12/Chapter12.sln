@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedAndChildTasks", "Nest
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SynchronizingResourceAccess", "SynchronizingResourceAccess\SynchronizingResourceAccess.csproj", "{9B900BBA-6C40-499C-828F-7FB6765D6A25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncConsole", "AsyncConsole\AsyncConsole.csproj", "{EC7BECF4-6E51-4FF4-89CE-A6E7B26A51FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncConsole", "AsyncConsole\AsyncConsole.csproj", "{EC7BECF4-6E51-4FF4-89CE-A6E7B26A51FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfResponsive", "WpfResponsive\WpfResponsive.csproj", "{CC087ED4-A318-4B2D-98C8-FD9E5B2D25F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfResponsive", "WpfResponsive\WpfResponsive.csproj", "{CC087ED4-A318-4B2D-98C8-FD9E5B2D25F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncEnumerable", "AsyncEnumerable\AsyncEnumerable.csproj", "{ABDB98B8-FB2A-4D05-906F-9B2BCDAE9EFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{CC087ED4-A318-4B2D-98C8-FD9E5B2D25F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC087ED4-A318-4B2D-98C8-FD9E5B2D25F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC087ED4-A318-4B2D-98C8-FD9E5B2D25F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDB98B8-FB2A-4D05-906F-9B2BCDAE9EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDB98B8-FB2A-4D05-906F-9B2BCDAE9EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDB98B8-FB2A-4D05-906F-9B2BCDAE9EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDB98B8-FB2A-4D05-906F-9B2BCDAE9EFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\bin\Debug\net6.0\AsyncEnumerable.exe
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\bin\Debug\net6.0\AsyncEnumerable.deps.json
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\bin\Debug\net6.0\AsyncEnumerable.runtimeconfig.json
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\bin\Debug\net6.0\AsyncEnumerable.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\bin\Debug\net6.0\AsyncEnumerable.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.csproj.AssemblyReference.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.AssemblyInfoInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.AssemblyInfo.cs
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.csproj.CoreCompileInputs.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\obj\Debug\net6.0\refint\AsyncEnumerable.dll
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.pdb
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.genruntimeconfig.cache
+C:\Ppp_Git\Dotnet6Practice\Chapter12\AsyncEnumerable\obj\Debug\net6.0\ref\AsyncEnumerable.dll
