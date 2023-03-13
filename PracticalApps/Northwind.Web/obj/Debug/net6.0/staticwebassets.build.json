@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "rQkdjclaVDgDQRypCpZN2t5wa7DIEWoIpOp29ojdbJg=",
+  "Hash": "TE34TnSQVvcm3/Dy49uW5WiFhBG3fop5diWqQCJXA5E=",
   "Source": "Northwind.Web",
   "BasePath": "_content/Northwind.Web",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind.Web\\wwwroot",
+      "Source": "Northwind.Web",
+      "ContentRoot": "C:\\Ppp_Git\\Dotnet6Practice\\PracticalApps\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Ppp_Git\\Dotnet6Practice\\PracticalApps\\Northwind.Web\\wwwroot\\index.html",
+      "SourceId": "Northwind.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Ppp_Git\\Dotnet6Practice\\PracticalApps\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
 }

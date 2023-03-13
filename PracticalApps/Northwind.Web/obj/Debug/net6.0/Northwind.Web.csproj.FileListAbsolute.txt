@@ -24,3 +24,6 @@ C:\Ppp_Git\Dotnet6Practice\PracticalApps\Northwind.Web\obj\Debug\net6.0\refint\N
 C:\Ppp_Git\Dotnet6Practice\PracticalApps\Northwind.Web\obj\Debug\net6.0\Northwind.Web.pdb
 C:\Ppp_Git\Dotnet6Practice\PracticalApps\Northwind.Web\obj\Debug\net6.0\Northwind.Web.genruntimeconfig.cache
 C:\Ppp_Git\Dotnet6Practice\PracticalApps\Northwind.Web\obj\Debug\net6.0\ref\Northwind.Web.dll
+C:\Ppp_Git\Dotnet6Practice\PracticalApps\Northwind.Web\bin\Debug\net6.0\Northwind.Web.staticwebassets.runtime.json
+C:\Ppp_Git\Dotnet6Practice\PracticalApps\Northwind.Web\obj\Debug\net6.0\Northwind.Web.RazorAssemblyInfo.cache
+C:\Ppp_Git\Dotnet6Practice\PracticalApps\Northwind.Web\obj\Debug\net6.0\Northwind.Web.RazorAssemblyInfo.cs

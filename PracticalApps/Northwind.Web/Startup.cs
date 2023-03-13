@@ -4,7 +4,7 @@ public class Startup
 {
     public void ConfigureServices(IServiceCollection services)
     {
-
+        services.AddRazorPages();
     }
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
     {
@@ -14,9 +14,12 @@ public class Startup
         }
         app.UseRouting(); // start endpoint routing
         app.UseHttpsRedirection();
+        app.UseDefaultFiles();
+        app.UseStaticFiles();
         app.UseEndpoints(EndpointDataSource =>
         {
-            EndpointDataSource.MapGet("/", () => "Hello World!");
+            EndpointDataSource.MapRazorPages();
+            EndpointDataSource.MapGet("/hello", () => "Hello World!");
         });
     }
 }
